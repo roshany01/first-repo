@@ -7,3 +7,4 @@ This is demo file
 |test|ams-t|
 |prod|ams-ct|
 |pci-prod|ams-pci|
+|fit|fat
